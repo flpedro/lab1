@@ -6,7 +6,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 1720px 800px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Impact, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 }
@@ -18,5 +18,7 @@ body {
 
 
 .banner-text {
-    position: absolute;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 74px;
 }
