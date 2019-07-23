@@ -1,7 +1,22 @@
 @charset "UTF-8";
 
 body {
-    background-color: #5c6778
-    
+    background-color: #5c6778;
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1720px 800px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
+
+}
+.banner {
+    background-image: url("../images/banner.jpg");
+    background-size: 1500px 350px;
+    opacity: 1;
+}
+
+
+.banner-text {
+    position: absolute;
 }
